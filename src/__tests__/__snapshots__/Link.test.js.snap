@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link component changes className when hovered 1`] = `
+<a
+  className="normal"
+  href="https://www.twitter.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Twitter
+</a>
+`;
+
+exports[`Link component changes className when hovered 2`] = `
+<a
+  className="hovered"
+  href="https://www.twitter.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Twitter
+</a>
+`;
